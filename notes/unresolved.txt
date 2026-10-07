@@ -7,5 +7,3 @@ TwDrvFifo_ioctl | libtouchscreen.so
 TwDrvFifo_open | libtouchscreen.so
 TwDrvFifo_read | libtouchscreen.so
 TwDrvFifo_write | libtouchscreen.so
-SoundOGG::PlayOGG(char*, unsigned short, int) | hollywood_match.so
-SoundOGG::StopOGG(SoundOGG*) | hollywood_match.so
